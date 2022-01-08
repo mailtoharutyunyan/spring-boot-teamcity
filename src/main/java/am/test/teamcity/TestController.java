@@ -8,6 +8,6 @@ public class TestController {
 
   @GetMapping
   public String printMe() {
-    return "Hello World";
+    return "Hello World 2";
   }
 }
